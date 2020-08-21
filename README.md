@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, Iam Diego Benitez 👋
+![](https://github.com/diegoBenitez2/diegoBenitez2/blob/master/header.png)
 <!--
 **diegoBenitez2/diegoBenitez2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
